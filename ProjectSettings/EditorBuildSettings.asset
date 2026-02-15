@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: e780ce2b3756036468904767bd8c6b95
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 18d93ede213b8124d86fec845f644b34
+  - enabled: 1
+    path: Assets/Scenes/enemy.unity
+    guid: af10e2fb5531c2d45ab53bcc5c0a2b39
+  - enabled: 1
+    path: Assets/Scenes/1end.unity
+    guid: 3dfbf9c788bd63b41987bc1dbba87367
+  - enabled: 1
+    path: Assets/Scenes/Jam.unity
+    guid: 7c401905dff2a304389f1c0a05bdf64a
+  - enabled: 1
+    path: Assets/Scenes/2end.unity
+    guid: 84d20f84f6cde4d42aac354fa046db5d
+  - enabled: 1
+    path: Assets/Scenes/Nomia.unity
+    guid: b8f49d27b632c6949bcb35da189d16ca
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: de53e043c762b144ca044d4849da548f
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 76792253a67345749974b025612cad24
+  - enabled: 0
+    path: Assets/Scenes/example.unity
+    guid: dac58cb386288524a8cc44aebfe23bbf
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
